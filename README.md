@@ -1,5 +1,5 @@
-# Part-One
-디자인패턴 스터디 1부
+# 개요
+디자인패턴 스터디
 <br><br>
 ## 교재
 | <img src="https://image.aladin.co.kr/product/29089/24/cover500/k212837767_1.jpg" width="400px" height="500px"> |
